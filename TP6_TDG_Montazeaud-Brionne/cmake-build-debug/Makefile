@@ -122,6 +122,33 @@ TP6_TDG_Montazeaud_Brionne/fast:
 	$(MAKE) -f CMakeFiles\TP6_TDG_Montazeaud_Brionne.dir\build.make CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/build
 .PHONY : TP6_TDG_Montazeaud_Brionne/fast
 
+graphe.obj: graphe.cpp.obj
+
+.PHONY : graphe.obj
+
+# target to build an object file
+graphe.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP6_TDG_Montazeaud_Brionne.dir\build.make CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/graphe.cpp.obj
+.PHONY : graphe.cpp.obj
+
+graphe.i: graphe.cpp.i
+
+.PHONY : graphe.i
+
+# target to preprocess a source file
+graphe.cpp.i:
+	$(MAKE) -f CMakeFiles\TP6_TDG_Montazeaud_Brionne.dir\build.make CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/graphe.cpp.i
+.PHONY : graphe.cpp.i
+
+graphe.s: graphe.cpp.s
+
+.PHONY : graphe.s
+
+# target to generate assembly for a file
+graphe.cpp.s:
+	$(MAKE) -f CMakeFiles\TP6_TDG_Montazeaud_Brionne.dir\build.make CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/graphe.cpp.s
+.PHONY : graphe.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -149,6 +176,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\TP6_TDG_Montazeaud_Brionne.dir\build.make CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+sommet.obj: sommet.cpp.obj
+
+.PHONY : sommet.obj
+
+# target to build an object file
+sommet.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP6_TDG_Montazeaud_Brionne.dir\build.make CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/sommet.cpp.obj
+.PHONY : sommet.cpp.obj
+
+sommet.i: sommet.cpp.i
+
+.PHONY : sommet.i
+
+# target to preprocess a source file
+sommet.cpp.i:
+	$(MAKE) -f CMakeFiles\TP6_TDG_Montazeaud_Brionne.dir\build.make CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/sommet.cpp.i
+.PHONY : sommet.cpp.i
+
+sommet.s: sommet.cpp.s
+
+.PHONY : sommet.s
+
+# target to generate assembly for a file
+sommet.cpp.s:
+	$(MAKE) -f CMakeFiles\TP6_TDG_Montazeaud_Brionne.dir\build.make CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/sommet.cpp.s
+.PHONY : sommet.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -158,9 +212,15 @@ help:
 	@echo ... TP6_TDG_Montazeaud_Brionne
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... graphe.obj
+	@echo ... graphe.i
+	@echo ... graphe.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... sommet.obj
+	@echo ... sommet.i
+	@echo ... sommet.s
 .PHONY : help
 
 

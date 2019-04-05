@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/MATHIS/Desktop/TP6_TDG_Montazeaud_Brionne/TP6_TDG_Montazeaud-Brionne/graphe.cpp">
+			<Option target="TP6_TDG_Montazeaud_Brionne"/>
+		</Unit>
+		<Unit filename="C:/Users/MATHIS/Desktop/TP6_TDG_Montazeaud_Brionne/TP6_TDG_Montazeaud-Brionne/graphe.h">
+			<Option target="TP6_TDG_Montazeaud_Brionne"/>
+		</Unit>
 		<Unit filename="C:/Users/MATHIS/Desktop/TP6_TDG_Montazeaud_Brionne/TP6_TDG_Montazeaud-Brionne/main.cpp">
+			<Option target="TP6_TDG_Montazeaud_Brionne"/>
+		</Unit>
+		<Unit filename="C:/Users/MATHIS/Desktop/TP6_TDG_Montazeaud_Brionne/TP6_TDG_Montazeaud-Brionne/sommet.cpp">
+			<Option target="TP6_TDG_Montazeaud_Brionne"/>
+		</Unit>
+		<Unit filename="C:/Users/MATHIS/Desktop/TP6_TDG_Montazeaud_Brionne/TP6_TDG_Montazeaud-Brionne/sommet.h">
 			<Option target="TP6_TDG_Montazeaud_Brionne"/>
 		</Unit>
 		<Unit filename="C:/Users/MATHIS/Desktop/TP6_TDG_Montazeaud_Brionne/TP6_TDG_Montazeaud-Brionne/CMakeLists.txt">
