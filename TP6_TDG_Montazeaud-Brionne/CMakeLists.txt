@@ -3,4 +3,4 @@ project(TP6_TDG_Montazeaud_Brionne)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(TP6_TDG_Montazeaud_Brionne main.cpp)
+add_executable(TP6_TDG_Montazeaud_Brionne main.cpp graphe.cpp graphe.h sommet.cpp sommet.h)

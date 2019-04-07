@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/main.cpp.o"
+  "CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/graphe.cpp.o"
+  "CMakeFiles/TP6_TDG_Montazeaud_Brionne.dir/sommet.cpp.o"
   "TP6_TDG_Montazeaud_Brionne.pdb"
   "TP6_TDG_Montazeaud_Brionne"
 )

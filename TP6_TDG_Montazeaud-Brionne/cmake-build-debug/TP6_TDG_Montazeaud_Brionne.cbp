@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug"/>
+				<Option working_dir="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug"/>
+				<Option working_dir="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TP6_TDG_Montazeaud_Brionne">
-				<Option output="/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/TP6_TDG_Montazeaud_Brionne" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug"/>
+				<Option output="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/TP6_TDG_Montazeaud_Brionne" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP6_TDG_Montazeaud_Brionne"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP6_TDG_Montazeaud_Brionne"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TP6_TDG_Montazeaud_Brionne/fast">
-				<Option output="/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/TP6_TDG_Montazeaud_Brionne" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug"/>
+				<Option output="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/TP6_TDG_Montazeaud_Brionne" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,27 +67,39 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP6_TDG_Montazeaud_Brionne/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP6_TDG_Montazeaud_Brionne/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug"/>
+				<Option working_dir="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/main.cpp">
+		<Unit filename="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/graphe.cpp">
 			<Option target="TP6_TDG_Montazeaud_Brionne"/>
 		</Unit>
-		<Unit filename="/home/benoit/CLionProjects/TP6_TDG_Montazeaud-Brionne/CMakeLists.txt">
+		<Unit filename="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/graphe.h">
+			<Option target="TP6_TDG_Montazeaud_Brionne"/>
+		</Unit>
+		<Unit filename="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/main.cpp">
+			<Option target="TP6_TDG_Montazeaud_Brionne"/>
+		</Unit>
+		<Unit filename="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/sommet.cpp">
+			<Option target="TP6_TDG_Montazeaud_Brionne"/>
+		</Unit>
+		<Unit filename="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/sommet.h">
+			<Option target="TP6_TDG_Montazeaud_Brionne"/>
+		</Unit>
+		<Unit filename="/home/benoit/CLionProjects/TDG_TP6/TP6_TDG_Montazeaud-Brionne/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
